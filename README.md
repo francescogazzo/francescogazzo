@@ -1,4 +1,7 @@
-![This is an image](./header.png)
+![Header](./header.png)
+
+[![Species](https://img.shields.io/badge/Species-Homo_Sapiens-1A52C2?style=for-the-badge&logo=monkey-tie)](https://en.wikipedia.org/wiki/Human)
+
 
 <!--
 **francescogazzo/francescogazzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
